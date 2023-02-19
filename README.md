@@ -1,16 +1,5 @@
-# ai_image_generator
+# Ai image generator
 
-A new Flutter project.
+Nasza aplikacja to prosty i łatwy w obsłudze generator zdjęć, który wykorzystuje API od OpenAI. Użytkownik może wpisać, czego chce zdjęcie, na przykład "złota plaża", wybrać rozmiar i po chwili zobaczyć wygenerowane zdjęcie. Po zakończeniu procesu generowania, użytkownik może pobrać zdjęcie na swój telefon i użyć go do dowolnych celów, takich jak udostępnianie w mediach społecznościowych czy drukowanie. Nasza aplikacja umożliwia szybkie i łatwe tworzenie interesujących zdjęć, bez potrzeby posiadania specjalistycznej wiedzy lub umiejętności w dziedzinie fotografii.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Our application is a simple and user-friendly photo generator that uses OpenAI API. The user can enter what kind of photo they want to generate, such as "golden beach", choose the size, and after a moment, see the generated photo. Once the generation process is complete, the user can download the photo to their phone and use it for any purpose, such as sharing on social media or printing. Our application enables quick and easy creation of interesting photos, without the need for specialized knowledge or skills in photography.
